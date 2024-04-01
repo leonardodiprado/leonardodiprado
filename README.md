@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardodiprado" alt="leonardodiprado" /></a> </p>
 
-- 🔭 I’m currently working on **startup app development**
+- 🔭 I’m currently working on **developing an app for a startup**
 
-- 🌱 I’m currently learning **software engineering**
+- 🌱 I’m currently learning **Java and SQL**
 
 - 📫 How to reach me **leonardodprado@hotmail.com**
 
-- ⚡ Fun fact **I think I'm a football fanatic**
+- ⚡ Fun fact **Peace**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
