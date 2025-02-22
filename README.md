@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **developing an app for a startup**
 
-- 🌱 I’m currently learning **Java and SQL**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **leonardodprado@hotmail.com**
-
-- ⚡ Fun fact **Peace**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
